@@ -20,10 +20,13 @@
 [![cv](https://user-images.githubusercontent.com/74541595/180615167-4281c951-07e0-4350-be9b-63f8836b7f70.png)](https://drive.google.com/file/d/1rZ31kt7ZKaIxHDH1Jqu5E6lsrU3buPHE/view?usp=sharing)
 
 
+## Rewards
+<a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmguqu5xb00arla04zljtaenh"><img width=95 src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="Click to open holopin" /> </a>
+
+
 ## Stats
 [![Hamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaamedKhosravii)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaamedKhosravii&hide=javascript,html,css,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Hamed's GitHub Repository Contribution Stats](https://github-contributor-stats.vercel.app/api?username=HaamedKhosravii&combine_all_yearly_contributions=true&limit=5&order_by=stars)
-
